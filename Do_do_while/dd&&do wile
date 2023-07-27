@@ -1,14 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// Example of while loop
 void exampleWhileLoop() {
     int x = 1;
     while (x <= 5) {
         printf("%d \n", x);
         x++;
     }
-    // Output: 1 2 3 4 5
 }
 
 // Example of do-while loop
